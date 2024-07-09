@@ -1,4 +1,4 @@
-import Popup from 'reactjs-popup'
+import Popup from 'react-modal'
 // import 'reactjs-popup/dist/index.css'
 import {RiCloseLine} from 'react-icons/ri'
 
